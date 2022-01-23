@@ -1,0 +1,9 @@
+html{background-color: rgb(255, 255, 255);
+    display: flex;
+}
+form{
+    width: 300px;
+}
+.ml-10{
+    justify-content: center;
+}
